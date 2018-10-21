@@ -1,6 +1,6 @@
 # たねでぃ
 
-[![Product Name](image.png)](https://www.youtube.com/embed/R0embAxR0E0)
+[![Product Name](image.png)](https://youtu.be/CBGhwWdm4_I)
 
 ## 製品概要
 ### アイディア Tech
