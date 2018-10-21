@@ -1,6 +1,6 @@
 # たねでぃ
 
-[![Product Name](image.png)](https://youtu.be/CBGhwWdm4_I)
+[![Product Name](tanede.png)](https://youtu.be/CBGhwWdm4_I)
 
 ## 製品概要
 ### アイディア Tech
