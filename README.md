@@ -36,24 +36,13 @@
 Python 
 IBM watson Speech to Text (音声認識)
 マルコフ連鎖（機械学習）
-AquesTalk Pi(音声合成)
-
-* 
-* 
-* 
+AquesTalk Pi(音声合成) 
 
 #### フレームワーク・ライブラリ・モジュール 
 GY-521 mpu6050 (三軸センサー)
-* 
-* 
+ 
 
 #### デバイス
 raspberry pi(デバイス)
-* 
-* 
 
-### 研究内容・事前開発プロダクト（任意）
-
-* 
-* 
 
